@@ -37,5 +37,5 @@ cd path/to/this/project
 - Videos will be saved in ./video_output
 - Photos will be saved in ./photo_output
 
-
 ## Examples
+They are published
